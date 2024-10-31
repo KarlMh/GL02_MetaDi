@@ -3,6 +3,6 @@ var command = {
         console.log("Command Ready!");
         return true;
     }
-};
+}; 
 
 module.exports = command;
